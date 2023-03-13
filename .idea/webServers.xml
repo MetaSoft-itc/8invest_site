@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="465ab457-1f03-4166-97d4-7b14f17d2d44" name="serv">
+        <fileTransfer rootFolder="/var/www/html/sCUM_Crypto" accessType="SFTP" host="35.195.42.148" port="22" sshConfigId="6185212e-f0f9-48ab-ab10-8f9e296c8d7d" sshConfig="root@35.195.42.148:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
