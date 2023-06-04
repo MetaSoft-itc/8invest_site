@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+![image](https://github.com/MetaSoft-itc/8invest_site/assets/49244961/65fa0bf2-130e-4665-ac0d-41f1aa0a2984)
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
